@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Dharmesh-Poriya07/mern-starter/issues"
   },
-  "homepage": "https://github.com/Dharmesh-Poriya07/mern-starter#readme"
+  "homepage": "https://github.com/Dharmesh-Poriya07/mern-starter#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
