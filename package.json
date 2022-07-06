@@ -1,0 +1,22 @@
+{
+  "name": "mern-starter",
+  "version": "1.0.0",
+  "description": "This is starter app for mern stack development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dharmesh-Poriya07/mern-starter.git"
+  },
+  "keywords": [
+    "mern"
+  ],
+  "author": "Dharmesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dharmesh-Poriya07/mern-starter/issues"
+  },
+  "homepage": "https://github.com/Dharmesh-Poriya07/mern-starter#readme"
+}
